@@ -20,14 +20,3 @@ import numpy as np
 import matplotlib.pyplot as plt  
 import seaborn as sns
 
-
-Yapılanlar
-Veri seti yüklendi
-
-Eksik veriler medyan ile dolduruldu
-
-Temel istatistiksel bilgiler incelendi
-
-İki özgün grafik ile veri görselleştirildi
-
-Temiz veri seti .csv olarak dışa aktarıldı
