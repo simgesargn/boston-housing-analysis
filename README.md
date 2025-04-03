@@ -15,20 +15,19 @@ Bu proje, Boston Housing veri seti kullanılarak veri analizi ve görselleştirm
 ## Kullanılan Kütüphaneler
 
 ```python
-pandas  
-numpy  
-matplotlib  
-seaborn
+import pandas as pd  
+import numpy as np  
+import matplotlib.pyplot as plt  
+import seaborn as sns
 
----
 
-# Yapılanlar
-- Veri seti yüklendi
-- Eksik veriler medyan ile dolduruldu
-- Temel istatistiksel bilgiler incelendi
-- İki özgün grafik ile veri görselleştirildi
-- Temiz veri seti .csv olarak dışa aktarıldı
+Yapılanlar
+Veri seti yüklendi
 
-## Grafikler
-- Düşük Gelirli Nüfus (%) ile Fiyat İlişkisi
-- Ortalama Oda Sayısı ile Fiyat İlişkisi
+Eksik veriler medyan ile dolduruldu
+
+Temel istatistiksel bilgiler incelendi
+
+İki özgün grafik ile veri görselleştirildi
+
+Temiz veri seti .csv olarak dışa aktarıldı
