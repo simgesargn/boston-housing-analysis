@@ -20,7 +20,9 @@ numpy
 matplotlib  
 seaborn
 
-## Yapılanlar
+---
+
+# Yapılanlar
 - Veri seti yüklendi
 - Eksik veriler medyan ile dolduruldu
 - Temel istatistiksel bilgiler incelendi
